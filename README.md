@@ -4,4 +4,4 @@
 ---
 
 Форма регистрации:    
-!()[kursovaya/regForm.png]
+![](kursovaya/regForm.png)

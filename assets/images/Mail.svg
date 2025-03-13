@@ -1,0 +1,20 @@
+<svg width="21.890104" height="24.000000" viewBox="0 0 21.8901 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip26_32">
+			<rect id="Mail" width="21.890104" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip26_32)">
+		<path id="path" d="M1.82 19.5L20.06 19.5L20.06 12L20.06 4.5L10.94 4.5L1.82 4.5L1.82 12L1.82 19.5Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M20.06 19.5L20.06 12L20.06 4.5L10.94 4.5L1.82 4.5L1.82 12L1.82 19.5L20.06 19.5Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="path" d="M1.37 5.07L1.34 5.07C1.02 4.81 0.97 4.34 1.24 4.02C1.51 3.69 1.97 3.65 2.3 3.92L2.3 3.94L1.37 5.07ZM19.58 3.94L19.58 3.92C19.91 3.65 20.37 3.69 20.64 4.02C20.91 4.34 20.86 4.81 20.54 5.07L20.51 5.07L19.58 3.94Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M1.82 4.5L10.94 12L20.06 4.5" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M10.92 3.77L10.94 3.75C11.36 3.75 11.69 4.08 11.69 4.5C11.69 4.91 11.36 5.25 10.94 5.25L10.92 5.22L10.92 3.77ZM2.55 11.98L2.57 12C2.57 12.42 2.24 12.75 1.82 12.75C1.4 12.75 1.07 12.42 1.07 12L1.09 11.98L2.55 11.98Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M10.94 4.5L1.82 4.5L1.82 12" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M20.79 11.98L20.81 12C20.81 12.42 20.48 12.75 20.06 12.75C19.64 12.75 19.31 12.42 19.31 12L19.33 11.98L20.79 11.98ZM10.96 5.22L10.94 5.25C10.52 5.25 10.19 4.91 10.19 4.5C10.19 4.08 10.52 3.75 10.94 3.75L10.96 3.77L10.96 5.22Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M20.06 12L20.06 4.5L10.94 4.5" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
